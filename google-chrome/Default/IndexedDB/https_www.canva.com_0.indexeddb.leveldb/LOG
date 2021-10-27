@@ -1,0 +1,6 @@
+2021/10/11-13:22:08.546 8176 Creating DB /home/simonm/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2021/10/11-13:22:09.146 8176 Reusing MANIFEST /home/simonm/.config/google-chrome/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/11-13:22:19.303 8224 Level-0 table #5: started
+2021/10/11-13:22:20.421 8224 Level-0 table #5: 3437 bytes OK
+2021/10/11-13:22:20.603 8224 Delete type=0 #3
+2021/10/11-13:22:20.604 8224 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

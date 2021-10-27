@@ -1,0 +1,90 @@
+{
+   "checksum": "7bda7a2617fa29261e19033052beeb99",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13264750368250425",
+            "guid": "ffd317cb-5ead-423d-b889-8928ed549d87",
+            "id": "5",
+            "name": "Smallpdf.com - A Free Solution to all your PDF Problemshttps://smallpdf.com",
+            "type": "url",
+            "url": "https://smallpdf.com/"
+         }, {
+            "date_added": "13265394757601810",
+            "guid": "a782d602-e6ac-4191-afd3-5cb11a98d370",
+            "id": "6",
+            "name": "Ode to My Socks by Pablo Neruda | Poem Analysis",
+            "type": "url",
+            "url": "https://poemanalysis.com/pablo-neruda/ode-to-my-socks/#:~:text='Ode%20to%20My%20Socks'%20by,to%20even%20put%20them%20on."
+         }, {
+            "date_added": "13265880911809464",
+            "guid": "5bed5ea2-586e-4430-b6c4-5d72e86a3c01",
+            "id": "7",
+            "name": "exlp",
+            "type": "url",
+            "url": "https://www.statisticshowto.com/probability-and-statistics/types-of-variables/"
+         }, {
+            "date_added": "13265926040755924",
+            "guid": "20ce31a2-8ae4-432b-a663-679f86c0269d",
+            "id": "8",
+            "name": "a",
+            "type": "url",
+            "url": "http://www.csun.edu/~rseki/teaching/100b/QMC21.htm"
+         }, {
+            "date_added": "13265969546254124",
+            "guid": "d000a12b-d382-45de-9777-4f387b5aca9d",
+            "id": "9",
+            "name": "CDC - Soil-transmitted Helminths",
+            "type": "url",
+            "url": "https://www.cdc.gov/parasites/sth/index.html#:~:text=Soil%2Dtransmitted%20helminths%20refer%20to,Anclostoma%20duodenale%20and%20Necator%20americanus)."
+         }, {
+            "date_added": "13270450380680048",
+            "guid": "8d363354-e96a-4cc9-ab6d-49a0310cecc5",
+            "id": "10",
+            "name": "syl20bnr/spacemacs - Gitter",
+            "type": "url",
+            "url": "https://gitter.im/syl20bnr/spacemacs/archives/2018/08/03"
+         }, {
+            "date_added": "13274807321870913",
+            "guid": "06a20f69-e02e-4662-acc7-3c522c1e6ab3",
+            "id": "11",
+            "name": "AutoEq/results at master · jaakkopasanen/AutoEq · GitHub",
+            "type": "url",
+            "url": "https://github.com/jaakkopasanen/AutoEq/tree/master/results"
+         }, {
+            "date_added": "13275148172428229",
+            "guid": "a2115453-2ea2-49ee-b460-5c491cb61e6f",
+            "id": "12",
+            "name": "shutd",
+            "type": "url",
+            "url": "https://www.reddit.com/r/linuxquestions/comments/9wcwmp/can_i_install_linux_on_one_drive_and_windows_on/"
+         } ],
+         "date_added": "13278176907393370",
+         "date_modified": "13275148172428229",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13278176907393373",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13278176907393376",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAIOqnH84FACEAIOqnH84FADIYChYIAhFLUNm4H84FABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJACDqpx/OBQAhACDqpx/OBQAyGAoWCAIRS1DZuB/OBQAYACEAAAAAAAAAACAASKrS95THL3DZybqCxi8SACABKhhiVnMwN1RHZWU3TFBwUHZmb2pTYVVRPT0SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5bzROem91NDg4Ym9DWXUza3Y2VTN1OHFwT1Rvc20zZVBHT3ZnOTZVZlg5QWk5UVBsQkFQejIrTFlGQldnd3hTTjBkcGRPakNDMHlrWkdmcTR2SS81aEtmcEZVZz09GAAgACgAMLWEspmDu/MCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEICxLnAQocSXNMemFFZ240aWdud0tBSkxaOGlHOXJ1OXdnPRJmWjpBRHF0QVp3VHZEV2tZVFNzdHlvMnhBOVJYNXBXZmdSZGtETHhIVXNoZkxiWXplR0JGaTdEYzBvUHh3dEVXMFdtRUFia29FKy84OC9CZ2Q3UGJ1YXY2eW9GSUFjdUh1QnNxdz09GAAgACgAMPLIobT62PICOJC62bu5L0CQutm7uS9KHFF3WEozN3F6dGJ3V1Y0K2lRRWEvSWwrcDdUST1aHyId/lZiUlU1VUZtTHNpUVZObitLYnE1Sm5hWG96OD1lKNDhqRKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhtMER1OFJva2s3Z2ZINGdoVXRWUGliZjJsQ1lGenZFT2pKVDBKQUUvbGpLMkE4R3hUczdlbWYwMm5pNC9FaWw0RnE0dVQYACAAKAAwtYSymYO78wI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKtAggFEqgCChw2VVNhaVdCZFF6cDBKL040L3A0dHFkR2JPSms9EqYBWjpBRHF0QVp4bDZjSkZmOHlxbG5jVkJ0eVJIQVFlcVQ2bnFRUzgvTHhWQURQanVuSTRIL0lZUUxsZ3kzSEFobmpzaEN3Z0NzMTFxTE9qelhzL3M5WW8wL3UwQi81OFVNRndZN1NWbExZWjlkb3JyWjZvdXlNNFg3UTY1NFZjanBIMy9zeFJxbk9QYlhvdkNYSWNJWUh6NlZ4NTJsTGs0a2RMT2c9PRgAIAIoAjDL39Wcg7vzAjj725WAlC9AmdS6gsYvShxCRERPblhObDdhVlNRQXd5MUIrcC8vb3FHc0E9Wh8iHbxQYy80b3YrN2xLMGtlSE4yRlFGQllMQTVFZkk9ZeqUj0YSrQIIBhKoAgocenY2R0k0bzdsRy9kM0dXR2hEVVVLYTJSODljPRKmAVo6QURxdEFaeGw2Y0pGZjh5cWxuY1ZCdHlSSEFRZXFUNm5xUVM4L0x4VkFEUGp1bkk0SCt1aXRNQm8rOUdlU1gvZS84QU1FT3VDNTY0d1IxMmxoa25zWEc2T3ExRjVKYnJScHIzbXRNc1pEWVNSZWNwd283akdQTnY1ZHNMcjVRUXNXdDZpcjJ2a09ydDhMN25mK3BNVzc3RHd2VjZvQVMrUkVnPT0YACACKAIwy9/VnIO78wI44o+4s5YvQJvUuoLGL0ocN1QvQmJES0hEU3J1U0VqTXBMKy94Z0tyL044PVofIh3eVG5HcFJ3Yk9GQWhsbnczMUN6RE1SUlNnd2NjPWWo7Q+CEq0CCAcSqAIKHFNpS2NJdjBrbk5Ya2dEWWIvTmdvbDFZeThvYz0SpgFaOkFEcXRBWnhsNmNKRmY4eXFsbmNWQnR5UkhBUWVxVDZucVFTOC9MeFZBRFBqdW5JNEgwbkFFQnNGSGFKbU5RMEZvRlVsVlN2V2FBWXExQ01vQk1IZjl0VVVQNzFoYTA5eDc5eEdSdFFhWkdGbDMyci9UYmVHWjQwdW01NEk1VCtCMzcxVmpIVlozNzBuYm1HNUUzQ3NsSGV4YUI0NWpHcHVidz09GAAgAigCMMvf1ZyDu/MCOMLPoJuYL0Cc1LqCxi9KHElFc2lRK0l4aGg4d3haMUg2bkJMRUNwWVJQOD1aHyId7zFxQVQ5cmp0Sk55ODZEQlFhVkhEM2pLNGViOD1ltNMMcBKtAggKEqgCChwvUU9najFmTndpQXVvTFQ1YTdlTWNUZy9wZlk9EqYBWjpBRHF0QVp4bDZjSkZmOHlxbG5jVkJ0eVJIQVFlcVQ2bnFRUzgvTHhWQURQanVuSTRIM2s0NC9SOUlJQ3JUaFJFRERLRmdzeEg5d2FzelhFRnNPN1pSMEE1dmVpbDlwWDhVcHRUTlVmWXFieFExY2Vhd0dxdldSYWNoSURvcit2TEVPMld2WVRFdlJYRDJaU1pPaUcwMnFHanVkRFc1eWF0L0E9PRgAIAIoAjDL39Wcg7vzAjiJ75KeqS9AntS6gsYvShxNTEIyZXhCaUlTMDYrZjU1aXpzU25Hbm9Lbnc9Wh8iHf1TaGFrMTlGdDBHdUd6YkZ1Q3h6RURQTE01NGs9ZWjS1QISrQIICBKoAgocUWVWb1c4OGpxSy9mRE8raWg1TXAyM01ramlvPRKmAVo6QURxdEFaeGw2Y0pGZjh5cWxuY1ZCdHlSSEFRZXFUNm5xUVM4L0x4VkFEUGp1bkk0SHdrQVlLd2ZMYXM5YzZYK2o1K3lTZlB2RW80ZUdkUWQ1UGdxWkFLWU1obHI0RTF1a0hoaDZqdWJGamV6eDBBd3FGYlNTenZVdjVnWUsxZk9sdi9SamhkdDNYU1FNUWZabEVIWGl5ck9DQXM5T1BCdmFnPT0YACACKAIwy9/VnIO78wI4tYnjsJgvQJ3UuoLGL0ocOFVWME5UMzJxQWloMmdjK1JnbFR4bHJ6cy8wPVofIh33bmV4YS8vYVFwVnM0RXpsRVhZQnhLVmNTaW1JPWV//UO1Eq0CCAkSqAIKHDdOSzlRMUVtLzF1Qm9xZXdMWnFnR29Md1huMD0SpgFaOkFEcXRBWnhsNmNKRmY4eXFsbmNWQnR5UkhBUWVxVDZucVFTOC9MeFZBRFBqdW5JNEg3TXIyQ3VzYWZyblFvcngwYjd2R0ZEZ21jWHFLYnlYZG5PSW1wOWQ1YXNXUktQZVlWYllteG8rMHRCQVVPRlp1emI4bW5kalV3aXZFRzZXVkRadm8rcDg5NDRxYXUzS083OTNLNEdCd25PNzdGaUJLQT09GAAgAigCMMvf1ZyDu/MCOI+4wsWYL0Ce1LqCxi9KHHRjNTlrZlhaTlZFTXQvSVF5Z1lDZDIvMC9TMD1aHyId+zFRZG15MER4bzBoMWR4V0xKcGFzdENsRE44Zz1lUk79XhLsAQgMEucBChxMYW9BU0cveEhXZVNXdUpsaUs5c2pjSEwxY0E9EmZaOkFEcXRBWndUdkRXa1lUU3N0eW8yeEE5Ulg1cFdOS1BHT1pMOXphZXlvOTBOMEFJSW5XV25ZZmR6QWhUZSsreEZsMjNNUThlaHNuQlN3KzRhcVNwTnBLZ2lTb0RSSzJVQ1NnPT0YACAAKAAw/eDMl/Di8gI4jamd3rovQI2pnd66L0oceE84d0FhdFo1WVAyZ2ZiV1BveG4vTXVCVHZFPVofIh3/YndkcVc0anNXTEc3bUdKWkQ0Y2xMbUdVWjY0PWUcsmhNEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad3hBRTBFQ2NKamZWQkg2VDE4NFc0aXdPQm5oWmdiVWs0TGQ5K1pkYjFmSks0bnliaStsNk5tb2Evb1hBRDlCakV0UXZROWYrcWxWbUdhV2hXWTRyNGx4UEQySnc9PRgAIAAoADC1hLKZg7vzAjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAIK3U95THLzAA",
+   "version": 1
+}
